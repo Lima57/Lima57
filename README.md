@@ -1,8 +1,7 @@
-- 👋 E aí, sou o @Lima57, atualmente um estudante;
-- 👀 Estou majoritariamente interessado em informática e vídeogames;
-- 🌱 Atualmente aprendendo mais sobre a plataforma e POO no geral;
-- 📫 Discord: mugenno2rugi; Bsky: sanduche.bsky.social;
-- 😄 Meus pronomes são ele/dele!;
+- 👋 E aí, sou o @Lima57
+- 👀 Estou atualmente interessado em melhorar minha proficiência em Python, mas devo passar para C++;
+- 🌱 Atualmente aprendendo mais sobre git, a plataforma do github e POO no geral;
+- 🫂 Colaborando em meus projetos escolares;
 - ⚡ Curiosidade: Eu tenho hitchhiker's thumb.
 
 <!---
